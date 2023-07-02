@@ -1,2 +1,2 @@
 # Coursera-Datascience
-Has various public rpositories of my datascience course in coursera
+Has various public repositories of my datascience course in coursera
